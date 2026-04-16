@@ -16,6 +16,7 @@ Welcome! This repository showcases my work across backend systems, cloud computi
 * Exposed RESTful APIs for frontend analytics dashboardsTHE ROLE
 
 ** Because of the disclosure agreement i can not show you the full github code
+
 🔗 [LinkedIn Demo](https://www.linkedin.com/posts/edward-chairudin-157324283_i-worked-as-the-backend-developer-in-robotic-ugcPost-7397956352259596288-yajC)
 🔗 [YouTube Demo](https://youtu.be/CUs5ubhzhiE)
 
