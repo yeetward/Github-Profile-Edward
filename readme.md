@@ -108,7 +108,6 @@ Welcome! This repository showcases my work across backend systems, cloud computi
 ## 📌 Notes
 
 * Some projects include demo videos and live deployments
-* Embedded system projects may include ZIP files and screenshots instead of full repositories
 
 ---
 
